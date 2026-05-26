@@ -4,6 +4,7 @@ import Featured from "@/components/Featured";
 import Promo from "@/components/Promo";
 import Pricing from "@/components/Pricing";
 import About from "@/components/About";
+import Reviews from "@/components/Reviews";
 import Footer from "@/components/Footer";
 
 const Index = () => {
@@ -14,6 +15,7 @@ const Index = () => {
       <Featured />
       <Promo />
       <About />
+      <Reviews />
       <Pricing />
       <Footer />
     </main>
