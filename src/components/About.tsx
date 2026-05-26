@@ -4,7 +4,7 @@ export default function About() {
       <div className="max-w-5xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-16 items-center">
         <div className="relative">
           <img
-            src="https://cdn.poehali.dev/projects/dd000423-5073-4d14-a309-ed584cc58066/files/5e23d435-044d-4fe4-86e6-0ef8069acf5a.jpg"
+            src="https://cdn.poehali.dev/projects/dd000423-5073-4d14-a309-ed584cc58066/bucket/28bbbd45-2a83-48be-8226-f2fac15a3bb5.jpg"
             alt="Коновалова Виктория Владимировна"
             className="w-full aspect-[3/4] object-cover"
           />
